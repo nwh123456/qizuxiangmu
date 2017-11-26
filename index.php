@@ -1,5 +1,5 @@
 <?php
-echo 'hahahsdaskjfkajkajk;gjakjgklajgkl' ;
+echo '练习add' ;
 
 
 ?>
